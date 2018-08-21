@@ -1,5 +1,5 @@
 
- title of movie is Startup!
+ Title of movie is Startup!
 
 
 This is a story about two friends in college who start a startup
